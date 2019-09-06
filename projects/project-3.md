@@ -1,61 +1,23 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/claw.png
+title: Brain Control Interface Project
+permalink: projects/BCI
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-05-14
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - C#
+  - Emotiv Epoc
+  - Arduino
+  - 6DOF Robotics
+summary: This project was for EE396 (Junior Project), I used a headset with EEG contacts to control a six degree of freedom robotic arm, project carried out under supervision of Dr. Darren Carlson in the Ambient Lab.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/claw.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The Brain Controller Interface project is a part of Dr. Darren Carlson's Ambient lab, the ultimate goal of the lab is to have many different Internet of Things devices and other cutting edge technologies, interacting seamlessly in a high tech space. The equipment that we worked with is known as the Emotiv Epoc, this is an EEG, and motion tracking headset, we initially saw it being used to control video games, and thought that it would be good as an assistive tool for disabled people, controlling a claw to improve their reach.
 
-To give you a flavor of the game, here is an excerpt from one run:
+There was an extensive existing codebase for the Emotiv Epoc, but it was difficult for us to decihper how certain functions were implemented, not to mention the fact that it was in C# which we had to begin learning. Our group had some previous experience with arduino from EE296, and had a good idea of what we needed to do to control the servos (in terms of arduino code). We had an unfortunate mishap towards the end of the semester where some of the servos burnt out, we later learned that this was due to back current from adjusting the servos while the arm was powered off. This put us in a unique situation where we needed to obtain weaker replacement servos and change how our code worked, to account for the arm needing to move slower.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Out of all the projects I've worked on so far, the Brain Controller Interface project was by far the most technically complex, and time demanding, requiring our team to mesh complex hardware and software designs together, to create our final product.
