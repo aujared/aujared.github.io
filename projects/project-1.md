@@ -1,44 +1,18 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/sq.png
+title: EE205 Final Project (Soul Quest)
+permalink: 'projects/EE205_Final'
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-04-28
 labels:
-  - Robotics
-  - Arduino
+  - Git
   - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: My team and I developed a complex text based rpg in C++, complete with combat system, items, stats, and encounters
 ---
+<img class="ui medium right floated rounded image" src="../images/sq2.png">
+EE 205 is the second programming course available to electrical engineers, here we learn C++ to build upon the previous semester working in C. The official title of the class is "Object Oriented programming" and we are given a large degree of freedom when working on our final project, as long as we focus on utilizing the core programming concepts taught in the class. Being a group of gamers, we decided that it would be fun to work on a text based rpg, as it uses lots of elements that can be handled with classes and objects. We decided on a fantasy theme and appropriate name: "Soul Quest", after laying down our ideas for a basic combat system, player classes, items, and enemies, we set to work on programming.
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
-
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
+We were certainly not prepared for the level of complexity that this project entailed, there were so many different systems that needed to create and ensure seemless operation. We had a particularly difficult time getting the user interface to work, as it required us to learn how to use a completely new library called Ncurses. This allowed us to create a 4 option menu (attack, skills, flee, quit) similar to other traditional rpgs, and have the cursor highlight the selected option. We ended up with about 2000 lines of code, and a fully working game!
 
