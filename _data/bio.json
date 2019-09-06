@@ -1,52 +1,51 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jared Au",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://aujared.github.io/images/square.jpg",
+    "email": "aujared@hawaii.edu",
+    "phone": "808-469-1108",
+    "website": "https://aujared.github.io",
+    "summary": "I am a senior studying computer engineering at the University of Hawaii at Manoa. I am currently a student intern at NIWC (Naval Information Warfare Center) formerly known as SPAWAR. My expected date of graduation is Spring 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96789",
+      "city": "Mililani",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "aujared",
+        "url": "http://github.com/aujared"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "network": "github",
+        "username": "aujared",
+        "url": "http://github.com/aujared"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "shinzoftw",
+        "url": "http://twitter.com/shinzoftw"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
-    {
-      "name": "internet of things",
+{
+      "name": "Programming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+       
       ]
     },
     {
-      "name": "data mining",
+      "name": "Virtual Reality",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cyber Security",
       "keywords": [
       ]
     },
@@ -84,81 +83,39 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.8",
       "courses": [
-      ]
-    }
+        "EE 367: Algorithms",
+        "EE 371: Electromagnetics",
+        "EE 315: Signals and Systems",
+        "EE 205: Object Oriented Programming",
+        "EE 260: Digital Design",
+        ]
+        }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "NIWC Pacific (Formerly SPAWAR)",
+      "position": " Student Trainee Engineer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-08-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Worked on various projects within Communications branch, and Infrastructure branch",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+        "Supported system efforts through various activities and directives" ]
+        }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+     "title": "UH Manoa Regents Scholarship",
+      "date": "2016-Present",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Regents Scholarships are awarded to 20 outstanding freshmen who receive an SAT total score of at least 1340 or ACT combined score of at least 29, maintain at least a 3.5 GPA in academic subjects in high school, and whose extracurricular achievements are shown to be remarkable."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
