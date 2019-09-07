@@ -19,3 +19,4 @@ Additionally, we learned valuable lessons about teamwork, delegation, and time m
 
 We were certainly not prepared for the level of complexity that this project entailed, there were so many different systems that needed to create and ensure seemless operation. We had a particularly difficult time getting the user interface to work, as it required us to learn how to use a completely new library called Ncurses. This allowed us to create a 4 option menu (attack, skills, flee, quit) similar to other traditional rpgs, and have the cursor highlight the selected option. We ended up with about 2000 lines of code, and a fully working game!
 
+All related files to Soul Quest can be found here: https://github.com/aujared/EE205/tree/master/Final/project
