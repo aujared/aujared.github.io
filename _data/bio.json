@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
@@ -63,21 +63,21 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+         "Leg V8",
+        "Verilog",
+        "Python"
+        
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "Windows",
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
@@ -107,7 +107,9 @@
       "endDate": "Present",
       "summary": "Worked on various projects within Communications branch, and Infrastructure branch",
       "highlights": [
-        "Supported system efforts through various activities and directives" ]
+        "Grounding Rod repair at Kaneohe Marine Corps Base, directed ground logistics and performed basic engineering tasks",
+        "P-013 Building project for NIOC Command, performed tech writing and installation supervision"
+        "H4HE0 Division Procurement, coordinated]
         }
   ],
   "awards": [
