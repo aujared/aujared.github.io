@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/epoc.png
+image: images/epoc.jpg
 title: Brain Control Interface Project
 permalink: projects/BCI
 # All dates must be YYYY-MM-DD format!
