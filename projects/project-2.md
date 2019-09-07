@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/arduino.jpg
+image: images/cubelogo.jpg
 title: Smart Cubby
 permalink: projects/Smart_Cubby
 # All dates must be YYYY-MM-DD format!
