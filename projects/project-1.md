@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/sq.png
+image: images/sqfixed.png
 title: EE205 Final Project (Soul Quest)
 permalink: 'projects/EE205_Final'
 # All dates must be YYYY-MM-DD format!
