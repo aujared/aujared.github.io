@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cubelogo.jpg
+image: images/cubelogo.png
 title: Smart Cubby
 permalink: projects/Smart_Cubby
 # All dates must be YYYY-MM-DD format!
