@@ -83,6 +83,17 @@
   ],
   "education": [
     {
+      "institution": "Mililani High School",
+      "startDate": "2012-09-01",
+      "endDate": "2016-05-15",
+      "gpa": "4.3",
+      "courses": [
+        "A+ Certification 1 & 2",
+        "CCNA Certification 1 & 2",
+        "AP Computer Science (Java),
+        ]
+        }
+    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
@@ -118,6 +129,18 @@
       "date": "2016-Present",
       "awarder": "State of Hawaii",
       "summary": "Regents Scholarships are awarded to 20 outstanding freshmen who receive an SAT total score of at least 1340 or ACT combined score of at least 29, maintain at least a 3.5 GPA in academic subjects in high school, and whose extracurricular achievements are shown to be remarkable."
+    },
+    {
+     "title": "Skills USA Networking First Place (State)",
+      "date": "2015",
+      "awarder": "Skills USA",
+      "summary": "Skills USA is a competition for students in Industrial Arts classes, I competed in the Networking competition which consists of: Cable making, Network Configuration, and Support."
+    },
+     {
+     "title": "NSA Stokes Education Program",
+      "date": "2016",
+      "awarder": "National Security Agency",
+      "summary": "The Stokes Education Program is designed to offer students a fully paid scholarship to any college of their choice, along with a yearly stipend and salary, with the obligation to work for the NSA for 1.5x College Duration upon graduation. I ended up declining this scholarship to accept the Manoa Regents Scholarship instead."
     },
   ],
   "references": [
