@@ -84,7 +84,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2020)",
+      "area": "Computer Engineering (expected Spring, 2020) | Minor in Business Administration",
       "studyType": "B.S.",
       "startDate": "2016-09-01",
       "endDate": "Present",
@@ -95,6 +95,9 @@
         "EE 315: Signals and Systems",
         "EE 205: Object Oriented Programming",
         "EE 260: Digital Design",
+        "ICS 321: Database Systems",
+        "BUS 311: Information Systems",
+        "
         ]
         }
   ],
