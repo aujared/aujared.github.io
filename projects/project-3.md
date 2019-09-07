@@ -13,8 +13,7 @@ labels:
   - 6DOF Robotics
 summary: This project was for EE396 (Junior Project), I used a headset with EEG contacts to control a six degree of freedom robotic arm, project carried out under supervision of Dr. Darren Carlson in the Ambient Lab.
 ---
-
-<img class="ui image" src="{{ site.baseurl }}/images/claw.png">
+<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/claw.png">
 
 The Brain Controller Interface project is a part of Dr. Darren Carlson's Ambient lab, the ultimate goal of the lab is to have many different Internet of Things devices and other cutting edge technologies, interacting seamlessly in a high tech space. The equipment that we worked with is known as the Emotiv Epoc, this is an EEG, and motion tracking headset, we initially saw it being used to control video games, and thought that it would be good as an assistive tool for disabled people, controlling a claw to improve their reach.
 
