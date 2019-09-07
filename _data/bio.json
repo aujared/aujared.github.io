@@ -83,17 +83,6 @@
   ],
   "education": [
     {
-      "institution": "Mililani High School",
-      "startDate": "2012-09-01",
-      "endDate": "2016-05-15",
-      "gpa": "4.3",
-      "courses": [
-        "A+ Certification 1 & 2",
-        "CCNA Certification 1 & 2",
-        "AP Computer Science (Java),
-        ]
-        }
-    {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
