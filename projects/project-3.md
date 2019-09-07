@@ -21,4 +21,6 @@ There was an extensive existing codebase for the Emotiv Epoc, but it was difficu
 
 Out of all the projects I've worked on so far, the Brain Controller Interface project was by far the most technically complex, and time demanding, requiring our team to mesh complex hardware and software designs together, to create our final product. The final time crunch we went through after burning out our servos was also a great challenge, we were under the pressure of getting this project done but also studying for finals, but managed to pull through with teamwork and time management. We also learned how to effectively understand large codebases written by others, the Emotiv Epoc had alot of pre-written software but not much documentation so we needed to do alot of prodding and testing to fully utilize its potential. This was by far the most satisfying project to see come together, as it encompassed so many different facets of engineering.
 
-I do not currently have access to the source code, as Dr.Carlson requested the data stay within the Ambient Lab.
+I do not currently have access to the source code, as Dr.Carlson requested the data stay within the Ambient Lab. A video of the Braccio Arm in action can be seen below:
+<div class="ui embed" data-source="youtube" data-id="ennlXDwQofc" >
+</div>
