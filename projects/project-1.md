@@ -23,4 +23,4 @@ We were certainly not prepared for the level of complexity that this project ent
 
 Although it was our first major software engineering project, through teamwork, time management, and a bit of ingenuity, we were able to complete all project goals, recieve an A for the class, and ended up with ~2000 lines of code.
 
-All related files to Soul Quest can be found here: https://github.com/aujared/EE205/tree/master/Final/project
+All related files to Soul Quest can be found here: [https://github.com/aujared/EE205/tree/master/Final/project](link)
