@@ -9,7 +9,7 @@ labels:
   - Semantic UI
   - HTML
 ---
-<img class="ui medium right floated rounded image" src="../images/oldhtml.jfif">
+<img class="ui large right floated rounded image" src="../images/oldhtml.jfif">
 ## Initial Anxiety
 When I found out we would be covering html in ICS 314, I could not help but feel intimidated. In ICS 101, I learned basic HTML that allowed me to create sites on the same level as those made in the early 90’s. I was concerned about the amount of learning that would need to be done before I can reach the level of “modern website design”. I was unaware of the power that UI Frameworks had, I thought it would take me years of experimenting with CSS and hundreds of projects to figure out how to implement my vision of website through trial and error. Little did I know that I would love html development once I was exposed to the right tool (Semantic UI).
 
