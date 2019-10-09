@@ -11,8 +11,7 @@ labels:
 ---
 ## Initial Anxiety
 When I found out we would be covering html in ICS 314, I could not help but feel intimidated. In ICS 101, I learned basic HTML that allowed me to create sites on the same level as those made in the early 90’s. I was concerned about the amount of learning that would need to be done before I can reach the level of “modern website design”. I was unaware of the power that UI Frameworks had, I thought it would take me years of experimenting with CSS and hundreds of projects to figure out how to implement my vision of website through trial and error. Little did I know that I would love html development once I was exposed to the right tool (Semantic UI).
-
-<img class="right floated rounded image" src="../images/SemanticUI.png>
+<img class="ui right floated rounded image" src="../images/SemanticUI.png>
 ## What is a UI Framework?
 Let us start by covering what exactly a UI framework is: for our purposes, we can define a UI framework as a package of files and standardized code that allow a user to develop an html website with greater ease.  It’s not uncommon for a beginner html programmer (such as myself) to have a clear vision of what they are trying to accomplish, but not have the necessary knowledge to implement it. A UI framework such as Semantic UI provides many pre-written modules and elements that are easy to implement, from buttons and icon elements, to organizational tools like menus, tables and grids. These elements may have proven daunting to create on your own, but by using the power provided within the Semantic UI library even a novice html coder can create modern looking websites.
 
@@ -38,6 +37,6 @@ I find myself needing to refer to the Semantic UI documentation less and less as
 
 While some may say learning a UI Framework is like learning a whole new programming language, I disagree and would argue that it’s like going from Windows 7 to Windows 10. At first it’s rather jarring needing to switch to new methods and get used a different environment, but all the new functionalities more than make up for the initial learning required.
 
-<img class="left floated rounded image" src="../images/toolbox.png">
+<img class="ui left floated rounded image" src="../images/toolbox.png">
 ## Conclusion
 Semantic UI is an amazing tool and I look forward to working with it more this semester, in my previous experiences I did not like html as I didn’t know how to actualize the image I had in my head due to my lack of skills. But now with Semantic UI, I feel like my horizons have definitely been broadened and a whole new world of html programming has opened up to me. It’s like my whole life I’ve been using a screwdriver, and someone just introduced me to the electric drill, while they both get the job done, one makes it significantly easier to get it done the way you intend. 
