@@ -20,7 +20,7 @@ As previously mentioned, Semantic UI simplifies the UI design process, cutting d
 
 ```html
 <div class=”ui three column grid container”>
-	<div class=”ui column”></div>
+<div class=”ui column”></div>
 <div class=”ui column”></div>
 <div class=”ui column”></div>
 </div>
@@ -30,7 +30,7 @@ As previously mentioned, Semantic UI simplifies the UI design process, cutting d
 Semantic UI is very aptly named because most modules or elements can be used simply by writing out semantically what you need in the class line. If I needed a large button for my website, instead of going into the CSS, setting an ID for that button and then setting the size to a pixel value, I can simply say:
 
 ```html
-<a class=”large button”>
+<a class=”ui large button”>
 ```
 
 I find myself needing to refer to the Semantic UI documentation less and less as I do more practice WODS and sample projects, sometimes I elect to just try element names out in the class field before trying to search the documentation, simply because they are named so well and I can usually “guess” the correct syntax.
