@@ -22,14 +22,21 @@ Alternatively, we can implement it such that the Looking for a Game status lists
 
 <h2>Mockup Page Ideas </h2>
 <list>
-  <ul>Landing PAge </ul>
-  <ul>Admin Page </ul> 
-  <ul>User Home Page </ul> 
-  <ul>Create a Meetup </ul> 
-  <ul>Edit profile/interests </ul> 
-  <ul>Previous Gaming Buddies </ul> 
-  <ul>"Looking for Game" Directory </ul>
-  <ul>"Looking for Game" Google Map Implementation </ul> 
-  
+  <ul>-Landing Page </ul>
+  <ul>-Admin Page </ul> 
+  <ul>-User Home Page </ul> 
+  <ul>-Create a Meetup </ul> 
+  <ul>-Edit profile/interests </ul> 
+  <ul>-Previous Gaming Buddies </ul> 
+  <ul>-"Looking for Game" Directory </ul>
+  <ul>-"Looking for Game" Google Map Implementation </ul> 
 </list>
+
+<h2>Use Case Ideas</h2>
+<list>
+  <ul>-User Creates an account, chooses what games they are interested in, and their homepage displays currently active "Looking for Game" requests </ul>
+  <ul>Current user logs in, creates a Looking for Game request for League of Legends (they are not currently on campus, this is a online use case)</ul>
+  <ul>User recieves a message from someone with the same game/sport interest, they schedule a meetup via message system </ul>
+  <ul>User logs in, opens up the google map page to see what activities are going on near them (not particularly looking for a single type of game) </ul>
+ </list>
 
