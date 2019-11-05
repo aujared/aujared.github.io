@@ -7,7 +7,7 @@ labels:
   - Software Engineering
   - Meteor
 ---
-Group Members: Nate Chu & Jared
+Group Members: Nate Chu & Jared Au
 
 <h1> Gaming Buddy Application </h1>
 
