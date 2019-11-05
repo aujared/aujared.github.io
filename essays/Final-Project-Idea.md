@@ -31,4 +31,5 @@ Alternatively, we can implement it such that the Looking for a Game status lists
   <ul>"Looking for Game" Directory </ul>
   <ul>"Looking for Game" Google Map Implementation </ul> 
   
-</list
+</list>
+
