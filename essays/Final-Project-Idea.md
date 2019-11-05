@@ -35,8 +35,14 @@ Alternatively, we can implement it such that the Looking for a Game status lists
 <h2>Use Case Ideas</h2>
 <list>
   <ul>-User Creates an account, chooses what games they are interested in, and their homepage displays currently active "Looking for Game" requests </ul>
-  <ul>Current user logs in, creates a Looking for Game request for League of Legends (they are not currently on campus, this is a online use case)</ul>
-  <ul>User recieves a message from someone with the same game/sport interest, they schedule a meetup via message system </ul>
-  <ul>User logs in, opens up the google map page to see what activities are going on near them (not particularly looking for a single type of game) </ul>
+  <ul>-Current user logs in, creates a Looking for Game request for League of Legends (they are not currently on campus, this is a online use case)</ul>
+  <ul>-User recieves a message from someone with the same game/sport interest, they schedule a meetup via message system </ul>
+  <ul>-User logs in, opens up the google map page to see what activities are going on near them (not particularly looking for a single type of game) </ul>
  </list>
 
+<h2> Beyond the Basics </h2>
+<list>
+  <ul>-After implementing the basic framework, we will then look to utilize Google Maps to create a more visual representation of meetups </ul>
+   <ul>-Slack/discord bot to notify users of when a meetup is created for one of their interests </ul>
+   <ul>Review system to rate the person that you gamed with </ul>
+</list>
