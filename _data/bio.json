@@ -67,9 +67,9 @@
         "Windows",
         "MacOS",
         "Ubuntu",
-        "Git/GitHub"
-        "MongoDB"
-        "Meteor"
+        "Git/GitHub",
+        "MongoDB",
+        "Meteor",
       ]
     }
   ],
