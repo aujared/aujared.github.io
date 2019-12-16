@@ -22,14 +22,14 @@ Instead of having one massive deadline for “Critical Design Review” where th
 The concept of pushing issues/deliverables to the next small milestone if they are not ready yet is a concept that could work very well at NIWC, there are often many unseen regulations/issues that come up in our day to day work which causes a deliverable to be late. This delays when the whole “Critical Design Review” package can be submitted, but on a Agile schedule the rest of the documents would be delivered and review could start for those. As I grow in seniority as an Engineer, I hope to be able to apply an Agile Project Management schedule to some of the smaller projects I lead.
 
 ## Coding Standards
-<img class="ui medium right floated rounded image" src="
-images/code.png">
+<img class="ui medium left floated rounded image" src="
+https://scotch-res.cloudinary.com/image/upload/w_1050,q_auto:good,f_auto/media/3672/U1MjMQb9RwuOBHQPugFt_tumblr_o2yceixL2Q1rd3dk2o2_1280.png">
 Coding standards are a set of guidelines, best practices and conventions that a developer tries to adhere to when writing source code for a project, while I may not always be working on a project that requires coding, the concept of standardized conventions and best practices is important to remember. As we worked on our final project, our group’s adherence to coding standards really helped us to understand what sort of work the others had done without too much confusion. In my previous EE396 Junior project, my group had to work with a codebase for a EEG sensor that had awful documentation and did not adhere to coding standards of any kind, the confusion and headaches that came from trying to understand their code drove the point clear home that coding standards are crucial for those who work on your code after you have moved to another project.
 
 This can be applied to non-coding endeavors as well, anything from CAD drawings to PowerPoints and reports have pre-written standards that can be followed to provide coherency with the work of others. Quite a bit of my personal CAD knowledge has come from looking at old documents and previous project drawings, I also have a copy of the Shore Installation handbook which lays out guidelines and standard practices for different aspects of drawings. A great deal of emphasis was placed on referencing the manual frequently when doing drawings, to ensure that any contractor, engineer, or relevant personnel that views your drawings can understand what’s being communicated. 
 
 ## Conclusion
-<img class="ui medium left floated rounded image" src="
+<img class="ui medium right floated rounded image" src="
 https://www.nvcofny.com/wp-content/uploads/2015/06/4.jpg">
 All in all, ICS 314 has taught me much, much more than I ever expected, I came in expecting to learn HTML and JavaScript, and left with a tool box full of skills that I can apply to any problem that I face in my career. Improving not only my professional skills such as coding, project management, and team work, but also life skills like time management.
 
