@@ -15,6 +15,7 @@ summary: This project was completed in ICS 314 Software Engineering. Simply Savo
 ---
 
 ## Project Objectives
+<img class="<img class="ui medium right floated rounded image" src="https://cdn.ttgtmedia.com/rms/onlineImages/software_quality-agile_software_dev_cycle.jpg">">
 The final project for ICS 314 is meant to provide an outlet for students to combine a multitude of concepts learned throughout the class, and work in a team to produce and deploy a fully functional complex application. The original project that our group was assigned was "Toaster Oven Lovin'" a concept for a recipe application, we ended up deciding on the name "Simply Savory" and follow the general idea provided by the Toaster Oven concept. Our project statement was as follows:
 
 *Simply Savory is a web application that provides a centralized site for UH Manoa students to learn and share affordable recipes that can be prepared with minimal kitchen facilities (both on and off campus) to suit local taste sensibilities.*
