@@ -26,6 +26,13 @@ For this project, we utilized Agile Project Management, seperating everything in
 A Link to a github.io page that summarizes the project can be found here: [https://simply-savory.github.io/](link)
 
 ## My Role
-For this project I wanted to improve my back-end database skills, so I worked on
+For this project I wanted to improve my back-end database skills, so I worked on setting up the mongodb for user accounts and recipes, along with how they are accessed, modified, and displayed. This involved alot of work with simple schemas, collections, and publications to get everything interacting seamlessly. To determine who could edit a recipe, we assigned a owner property which was obtained via the Meteor Accounts.user method. Lots of troubleshooting was required as properties were being passed as null, not read correctly, or failed insertions.
+
+Additionally I was also in charge of all content dealing with the github.io page listed above. This was another good excercies in html, and more importantly helped me practice thorough documentation and "writing for the world". This site is meant to be a record of everything pertaining to Simply Savory, and should serve as a sole summary and explaination of the application and its capabilities. Whether a potential user is reading it, an employer, or someone looking to build off of the system, the github.io page should provide them with all the information they need.
 
 ## Lessons Learned
+This project showed me that Agile project management is a very effective technique, this is the smoothest team work experience I've had on any coding project. My team and I were able to work effectively on small issues that seamlessly fit together to create a fully functional application. I was also impressed with the concept of milestones and pushing issues from milestone to milestone if they are not fully done, delivering what is available at the end of a milestone takes alot of the stress that comes from missing a delivery date and needing to rush to meet the already late deadline.
+
+I also further improved my leadership skills, as I did majority of the organizing of our group, meetings, issues etc, along with leading the in class presentations. 
+
+This project was a good closer to ICS 314, requiring use of skills we learned throughout the semester in a team environment, and reinforcing a new style of working (Agile) to complete the daunting task of a complex meteor application.
