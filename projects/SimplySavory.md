@@ -20,7 +20,7 @@ The final project for ICS 314 is meant to provide an outlet for students to comb
 
 *Simply Savory is a web application that provides a centralized site for UH Manoa students to learn and share affordable recipes that can be prepared with minimal kitchen facilities (both on and off campus) to suit local taste sensibilities.*
 
-The project was built using Meteor, Semantic UI-React, Javascript, MongoDB, and was deployed using Galaxy. Version control was done via github, the organization page is found here: [https://github.com/simply-savory] . Our implementation stores recipes in a mongo database, then displays them to the user via cards. Users are able to like and favorite recipes, and post/edit their own recipes. If a vendor wishes to post deals & discounts on the site, they can indicate that they are a vendor during account creation, and be approved for an account.
+The project was built using Meteor, Semantic UI-React, Javascript, MongoDB, and was deployed using Galaxy. Version control was done via github, the organization page is found here: [https://github.com/simply-savory](link) . Our implementation stores recipes in a mongo database, then displays them to the user via cards. Users are able to like and favorite recipes, and post/edit their own recipes. If a vendor wishes to post deals & discounts on the site, they can indicate that they are a vendor during account creation, and be approved for an account.
 
 For this project, we utilized Agile Project Management, seperating everything into 3 milestones, builduing upon funcationality, and working on individual issues that comprise larger components. For example, the implementation of recipe cards was split into database, semantic ui card configuration, and creating recipes. While we worked seperately, we communicated well, and followed common coding standards so that the others could understand what was being written.
 
@@ -39,3 +39,6 @@ This project showed me that Agile project management is a very effective techniq
 I also further improved my leadership skills, as I did majority of the organizing of our group, meetings, issues etc, along with leading the in class presentations. 
 
 This project was a good closer to ICS 314, requiring use of skills we learned throughout the semester in a team environment, and reinforcing a new style of working (Agile) to complete the daunting task of a complex meteor application.
+
+
+The full repository is found here: [https://github.com/simply-savory/simply-savory](link), a detailed guide on installation and running/using the system can be found at the github.io link.
