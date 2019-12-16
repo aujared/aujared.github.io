@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Interests in Software Engineering
+title: New Horizons
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-13
 labels:
