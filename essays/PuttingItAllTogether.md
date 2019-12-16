@@ -37,4 +37,4 @@ All in all, ICS 314 has taught me much, much more than I ever expected, I came i
 
 In previous courses that I’ve taken such as EE205 (Object Oriented Programming) and EE367 (Algorithms and Data Structures), I felt like I had a cursory amount of knowledge after completing the course, but quickly forgot much of the coding I learned. The only time we needed to code for these classes was during labs or for homework assignments, in ICS 314 the repeated practice from the multiple experience per module provided regular practice that solidified the concepts for me.
 
-I have truly become a believe in the athletic software engineering pedagogy, and feel more prepared for my graduation next semester, into a professional engineering setting. 
+I have truly become a believer in the athletic software engineering pedagogy, and feel more prepared for my graduation next semester, into a professional engineering setting. 
