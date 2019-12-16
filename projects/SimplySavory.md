@@ -27,7 +27,7 @@ For this project, we utilized Agile Project Management, seperating everything in
 A Link to a github.io page that summarizes the project can be found here: [https://simply-savory.github.io/](link)
 
 ## My Role
-<img class="<img class="ui medium right floated rounded image" src="https://miro.medium.com/max/3200/1*DiNIG4Bfpm65_wwXf_JwMA.png">
+<img class="ui medium right floated rounded image" src="https://miro.medium.com/max/3200/1*DiNIG4Bfpm65_wwXf_JwMA.png">
 For this project I wanted to improve my back-end database skills, so I worked on setting up the mongodb for user accounts and recipes, along with how they are accessed, modified, and displayed. This involved alot of work with simple schemas, collections, and publications to get everything interacting seamlessly. To determine who could edit a recipe, we assigned a owner property which was obtained via the Meteor Accounts.user method. Lots of troubleshooting was required as properties were being passed as null, not read correctly, or failed insertions.
 
 Additionally I was also in charge of all content dealing with the github.io page listed above. This was another good excercies in html, and more importantly helped me practice thorough documentation and "writing for the world". This site is meant to be a record of everything pertaining to Simply Savory, and should serve as a sole summary and explaination of the application and its capabilities. Whether a potential user is reading it, an employer, or someone looking to build off of the system, the github.io page should provide them with all the information they need.
