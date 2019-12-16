@@ -24,7 +24,8 @@ The project was built using Meteor, Semantic UI-React, Javascript, MongoDB, and 
 For this project, we utilized Agile Project Management, seperating everything into 3 milestones, builduing upon funcationality, and working on individual issues that comprise larger components. For example, the implementation of recipe cards was split into database, semantic ui card configuration, and creating recipes. While we worked seperately, we communicated well, and followed common coding standards so that the others could understand what was being written.
 
 A Link to a github.io page that summarizes the project can be found here: [https://simply-savory.github.io/](link)
-## My Role
 
+## My Role
+For this project I wanted to improve my back-end database skills, so I worked on
 
 ## Lessons Learned
