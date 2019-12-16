@@ -4,6 +4,7 @@ type: essay
 title: A New Philosophy
 # All dates must be YYYY-MM-DD format!
 date: 2019-09-06
+published: false
 labels:
   - Software Engineering
   - Learning
