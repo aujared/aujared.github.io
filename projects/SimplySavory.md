@@ -38,6 +38,8 @@ This project showed me that Agile project management is a very effective techniq
 
 I also further improved my leadership skills, as I did majority of the organizing of our group, meetings, issues etc, along with leading the in class presentations. 
 
+We did encounter some problems with compleixty and time constraints, a longer writeup of these issues can be seen in the challenges section of the simply savory github.io page. We made a difficult call to cut out content that we had been working on because it wasn't up to the high standard of the rest of the project, if the project had gone on another week/milestone we would have been able to complete it to our satisfaction.
+
 This project was a good closer to ICS 314, requiring use of skills we learned throughout the semester in a team environment, and reinforcing a new style of working (Agile) to complete the daunting task of a complex meteor application.
 
 
