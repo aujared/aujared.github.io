@@ -39,11 +39,6 @@
       "name": "Cyber Security",
       "keywords": [
       ]
-    },
-    {
-      "name": "Machine Learning",
-      "keywords": [
-      ]
     }
   ],
   "skills": [
@@ -56,7 +51,8 @@
         "Javascript",
          "Leg V8",
         "Verilog",
-        "Python"
+        "Python",
+        "Arduino",
         
       ]
     },
@@ -70,6 +66,15 @@
         "Git/GitHub",
         "MongoDB",
         "Meteor",
+      ]
+    },
+   {
+      "name": "Other Programs/Productivity",
+      "level": "",
+      "keywords": [
+        "Microsoft SharePoint",
+        "Microsoft Project",
+        "AutoCAD",
       ]
     }
   ],
@@ -92,7 +97,6 @@
         "ICS 314: Software Engineering 1",
         "EE 324: Physical Electronics",
         "EE 342: Probability & Statistics",
-        
         ]
         }
   ],
